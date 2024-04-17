@@ -1,10 +1,11 @@
 header {
-
-
     color: rgb(0, 0, 0);
-    padding: 20px;
+    margin-top: -8px;
     width: 100%;
     display: inline;
+    border: 1px solid red;
+    /*/position: fixed !important;*/
+    background-color: aliceblue;
 }
 
 .clase1 {
@@ -17,12 +18,43 @@ header {
 .clase2 {
     display: inline;
     margin-left: 780px;
-
+    position: fixed;
     width: 50%;
 }
 
-img {
+.as {
  
     text-align: left;
     width: 40px;
+}
+section{
+    position: relative;
+    margin-left: 20px;
+    margin-top: 400px;
+    border: 1px solid blue;
+    width: 100%;
+    
+}
+.contenedor{
+    
+    width: 100%;
+    border: 1px solid red;
+}
+.cont{
+    
+    border: 1px solid rgb(0, 0, 0);
+    margin: 10%;
+    /*display: inline;*/
+    max-width: 20%;
+   
+}
+.imgs{
+    margin-left: 10px;
+    width: 25%;
+    display: inline;
+
+}
+.ing{
+    width: 50%;
+    
 }
