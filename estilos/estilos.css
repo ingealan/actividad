@@ -3,58 +3,151 @@ header {
     margin-top: -8px;
     width: 100%;
     display: inline;
-    border: 1px solid red;
-    /*/position: fixed !important;*/
-    background-color: aliceblue;
+    border: 1px solid rgb(76, 255, 76);
 }
 
 .clase1 {
     display: inline;
-   margin-left: 0px;
-   
+    margin-left: 0px;
+
     width: 50%;
 }
 
 .clase2 {
     display: inline;
-    margin-left: 780px;
+    background-color: aliceblue;
     position: fixed;
-    width: 50%;
+    width: 100%;
 }
 
 .as {
- 
+
     text-align: left;
     width: 40px;
 }
-section{
-    position: relative;
+
+section {
+    position: static;
     margin-left: 20px;
-    margin-top: 400px;
-    border: 1px solid blue;
-    width: 100%;
-    
-}
-.contenedor{
-    
-    width: 100%;
-    border: 1px solid red;
-}
-.cont{
-    
+    margin-top: 550px;
     border: 1px solid rgb(0, 0, 0);
+    width: 100%;
+
+}
+
+.cont {
+
+    border: 1px solid rgb(255, 255, 255);
     margin: 10%;
     /*display: inline;*/
     max-width: 20%;
-   
+
 }
-.imgs{
+
+.img {
     margin-left: 10px;
     width: 25%;
     display: inline;
 
 }
-.ing{
-    width: 50%;
-    
+
+.der {
+    text-align: right;
+}
+
+.fto {
+    text-align: center;
+    width: 100%;
+}
+
+/**/
+.pracnt {
+    background: #1fce45;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.contndr {
+    display: flex;
+    width: 25%;
+}
+
+.contndr {
+    display: flex;
+    width: 25%;
+}
+
+.contndr {
+    display: flex;
+    width: 25%;
+}
+
+.contndr {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.contndr {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.contndr {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.contndr {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.pracnt {
+    background: #1fce45;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.contndr {
+    display: flex;
+    width: 25%;
+}
+
+.contndr {
+    display: flex;
+    width: 25%;
+}
+
+.contndr {
+    display: flex;
+    width: 25%;
+}
+
+.contndr {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.contndr {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.contndr {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.contndr {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
